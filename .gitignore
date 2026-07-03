@@ -1,0 +1,9 @@
+# Ds Files
+.DS_Store
+Thumbs.db
+#Editor Files
+.vdcode/
+
+node_Modules/
+
+.env
